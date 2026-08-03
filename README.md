@@ -8,6 +8,7 @@ This repository documents the implementation of an Information Security Manageme
 The project is based on the requirements of **ISO/IEC 27001:2022** and demonstrates how an organization can implement an ISMS through practical documentation.
 
 > **Current Status:** ISMS Scope Document Completed ✅
+> ** Information Security Policy Completed ✅
 
 ---
 
@@ -77,7 +78,7 @@ These challenges led the management to implement an ISMS.
 | Document | Status |
 |----------|--------|
 | ISMS Scope | ✅ Completed |
-| Information Security Policy | ⏳ Planned |
+| Information Security Policy |  ✅ Completed|
 | Risk Assessment Methodology | ⏳ Planned |
 | Risk Register | ⏳ Planned |
 | Risk Treatment Plan | ⏳ Planned |
