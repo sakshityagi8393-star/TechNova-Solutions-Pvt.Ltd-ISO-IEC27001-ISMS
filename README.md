@@ -9,6 +9,8 @@ The project is based on the requirements of **ISO/IEC 27001:2022** and demonstra
 
 > **Current Status:** ISMS Scope Document Completed ✅
 > ** Information Security Policy Completed ✅
+> ** Risk Assessment Process Completed ✅
+
 
 ---
 
@@ -79,7 +81,7 @@ These challenges led the management to implement an ISMS.
 |----------|--------|
 | ISMS Scope | ✅ Completed |
 | Information Security Policy |  ✅ Completed|
-| Risk Assessment Methodology | ⏳ Planned |
+| Risk Assessment Methodology | ✅ Completed |
 | Risk Register | ⏳ Planned |
 | Risk Treatment Plan | ⏳ Planned |
 | Statement of Applicability (SoA) | ⏳ Planned |
